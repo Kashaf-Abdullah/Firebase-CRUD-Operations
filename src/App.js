@@ -28,7 +28,7 @@ const App = () => {
  <h1>FIREBASE STORAGE</h1>
 <StorageFirebase/> */}
 
-<h1>FIREBASE REALTIME UPDATE</h1>
+<h1>FIREBASE REALTIME UPDATES</h1>
 <RealTimeUpdate/>
     </div>
   )
